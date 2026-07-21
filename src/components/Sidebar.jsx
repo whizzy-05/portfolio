@@ -76,7 +76,7 @@ export default function Sidebar({ active, dark, onToggleDark }) {
       {/* Mobile top bar */}
       <header className="md:hidden fixed top-0 left-0 right-0 z-40 flex items-center justify-between px-5 py-4 bg-paper/95 dark:bg-navy-deep/95 backdrop-blur border-b border-slate/20">
         <p className="font-display text-lg font-semibold text-ink dark:text-paper">
-          Yvonne Misango
+          Pendo Amani
         </p>
         <div className="flex items-center gap-3">
           <button onClick={onToggleDark} aria-label="Toggle dark mode" className="text-slate">

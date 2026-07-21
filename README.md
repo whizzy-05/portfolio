@@ -1,4 +1,4 @@
-# Yvonne Misango — Portfolio
+# Pendo Amani — Portfolio
 
 A single-page portfolio built with React, Vite, and Tailwind CSS. Designed to work for
 software development roles, executive assistant applications, school clients, and networking.
